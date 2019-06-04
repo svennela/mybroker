@@ -1,0 +1,7 @@
+---
+applications:
+- name: mybroker
+  memory: 1G
+  instances: 1
+  host: mybroker
+  path: target/mybroker-0.0.1-SNAPSHOT.jar
